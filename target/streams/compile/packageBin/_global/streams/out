@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/chella/Projects/scakka/target/scala-2.13/scakka_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chella/Projects/scakka/target/scala-2.13/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/chella[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chella/Projects/scakka/target/scala-2.13/classes/org/chella[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/chella/apps[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chella/Projects/scakka/target/scala-2.13/classes/org/chella/apps[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/chella/apps/FirstScaPack[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chella/Projects/scakka/target/scala-2.13/classes/org/chella/apps/FirstScaPack[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/chella/apps/FirstScaPack/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chella/Projects/scakka/target/scala-2.13/classes/org/chella/apps/FirstScaPack/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/chella/apps/FirstScaPack/FirstSca.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chella/Projects/scakka/target/scala-2.13/classes/org/chella/apps/FirstScaPack/FirstSca.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/chella/apps/FirstScaPack/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chella/Projects/scakka/target/scala-2.13/classes/org/chella/apps/FirstScaPack/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/chella/apps/FirstScaPack/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chella/Projects/scakka/target/scala-2.13/classes/org/chella/apps/FirstScaPack/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
